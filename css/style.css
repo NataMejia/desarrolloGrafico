@@ -1,0 +1,126 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: auto;
+	padding: 2em;
+}
+
+h1{
+	color: white;
+}
+
+.row{
+	padding: 1rem;
+}
+
+.barra{
+	background-color: #FF266E;
+}
+
+.cajaBorde{
+	border-style: solid;
+	border-color: #FF266E;
+	height: 30vh;
+}
+
+/*ESTE ES MENU*/
+
+
+/*pagina 2*/
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin: auto;
+	padding: 2em;
+}
+
+h1{
+	color: white;
+}
+
+.row{
+	padding: 1rem;
+}
+
+.barra2{
+	background-color: #F0CA78;
+}
+
+.cajaBorde2{
+	border-style: solid;
+	border-color: #F0CA78;
+	height: 30vh;
+}
+
+ 
+/*pagina 3*/
+ *{
+	box-sizing: border-box;
+}
+
+body{
+	margin: auto;
+	padding: 2em;
+}
+
+h1{
+	color: white;
+}
+
+.row{
+	padding: 1rem;
+}
+
+.barra3{
+	background-color: #E5AB30;
+}
+
+.cajaBorde3{
+	border-style: solid;
+	border-color: #E5AB30;
+	height: 20vh;
+}
+
+.cajaBorde1libro3{
+	border-style: solid;
+	border-color: #E5AB30;
+	height: 40vh;
+
+}
+
+/*pagina 4*/
+ *{
+	box-sizing: border-box;
+}
+
+body{
+	margin: auto;
+	padding: 2em;
+}
+
+h1{
+	color: white;
+}
+
+.row{
+	padding: 1rem;
+}
+
+.barra4{
+	background-color: #4DA696;
+}
+
+.cajaBorde4{
+	border-style: solid;
+	border-color: #4DA696;
+	height: 20vh;
+}
+
+.cajaBorde1libro4{
+	border-style: solid;
+	border-color: #4DA696;
+	height: 40vh;
